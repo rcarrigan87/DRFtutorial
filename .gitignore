@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*.sqlite
-costcalc.db
+*.sqlite3
+
 
 # C extensions
 *.so
